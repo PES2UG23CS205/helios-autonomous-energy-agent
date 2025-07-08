@@ -1,0 +1,18 @@
+=== Helios Building: Energy Savings Best Practices & Integrated Strategy ===
+
+Our primary energy management goal is to balance occupant comfort with operational cost, while actively participating in grid-level sustainability programs.
+
+**Core Strategy: Avoid Peak Pricing**
+The most significant cost savings are achieved by minimizing energy use during the 'High Price Peak Demand' events, as defined by GridCo's DRP. This typically occurs on weekday evenings (5 PM to 9 PM). The HVAC system is our largest single energy consumer, making it the primary focus of our strategy.
+
+**Connecting the HVAC Manual to Grid Rules**
+- To meet the 20% load reduction target during a 'DR-01' event, we employ the pre-cooling strategy outlined in the HVAC manual (SOP-03).
+- We pre-cool the building to 22°C, starting around 3:30 PM.
+- At 5:00 PM, the thermostat is set to 25°C, and the HVAC system is set to 'Fan-Only' or its most efficient mode. This shift significantly reduces our kilowatt-hour (kWh) usage during the high-cost period.
+
+**Emergency Preparedness**
+- The HVAC system (Model XJ-4000) is programmed to automatically respond to the 'DR-02' Grid Emergency signal.
+- When this signal is received, the HVAC will immediately enter its Unoccupied/Night Setback mode, regardless of the time of day, to comply with mandatory load shedding. This proactive measure prevents costly non-compliance penalties from GridCo.
+
+**Maintenance Equals Savings**
+- As stated in the HVAC manual, regular filter replacement is not just a maintenance task; it is a critical energy-saving practice. A dirty filter can nullify the financial benefits of our peak avoidance strategies.

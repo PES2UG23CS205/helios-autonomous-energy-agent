@@ -1,0 +1,17 @@
+=== GridCo Utility: Commercial Demand Response Program (DRP) ===
+
+## Program ID: CDRP-2024
+
+## Event 1: High Price Peak Demand
+- **Trigger:** Real-time energy price exceeds $0.30/kWh.
+- **Typical Timeframe:** Weekdays, 5:00 PM to 9:00 PM (17:00-21:00).
+- **Requirement:** Reduce total building energy consumption by at least 20% compared to the baseline for the duration of the event.
+- **Incentive:** $50 credit per hour for successful participation.
+- **Building Management System (BMS) Signal:** The BMS will broadcast a 'DR-01' signal to all connected systems upon event trigger.
+
+## Event 2: Grid Emergency Load Shedding
+- **Trigger:** A critical grid stability alert is issued by the state power authority.
+- **Typical Timeframe:** Can occur at any time, usually on very hot summer days.
+- **Requirement:** Immediate and mandatory reduction of all non-essential high-load appliances. The HVAC system is considered a primary target for this event.
+- **Incentive:** $100 credit per hour, plus avoidance of potential non-compliance penalties of $500.
+- **Building Management System (BMS) Signal:** The BMS will broadcast a critical 'DR-02' signal. Systems programmed to respond to DR-02 should enter their lowest power state or shut down.

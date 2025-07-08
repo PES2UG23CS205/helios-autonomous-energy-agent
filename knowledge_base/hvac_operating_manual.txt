@@ -1,0 +1,32 @@
+=== HVAC System Model XJ-4000: Technical & Operational Manual ===
+
+## Section 1: System Specifications
+- Model: XJ-4000 Commercial Climate Control Unit
+- Cooling Capacity: 50,000 BTU/hr
+- Heating Capacity: 65,000 BTU/hr
+- Recommended Air Filter: MERV 13 Pleated Filter (Part #HF-901B)
+- Energy Consumption (Cooling): 4.5 kWh at full load
+- Energy Consumption (Heating): 5.2 kWh at full load
+- Energy Consumption (Fan Only): 0.5 kWh
+- Energy Consumption (Standby): 0.05 kWh
+
+## Section 2: Standard Operating Procedures (SOPs)
+- SOP-01: Optimal Temperature Ranges
+  - Summer / Cooling Season (Occupied): 23°C to 25°C
+  - Winter / Heating Season (Occupied): 20°C to 22°C
+  - Unoccupied / Night Setback: A 4°C offset is recommended. (e.g., 28°C in summer, 16°C in winter).
+- SOP-02: Filter Maintenance
+  - Filters must be checked monthly for debris.
+  - A mandatory replacement is required every 3 months. A clogged filter can increase energy consumption by up to 15% due to reduced airflow.
+- SOP-03: Pre-Cooling and Pre-Heating
+  - The system is capable of 'ramping' to a target temperature.
+  - Pre-cooling/heating should commence 90 minutes before scheduled occupancy to ensure comfort upon arrival.
+
+## Section 3: High-Load State & System Alerts
+- The XJ-4000 model is considered a 'high-load' appliance.
+- System Alert 'YELLOW': Indicates filter efficiency is below 50%. Schedule maintenance.
+- System Alert 'RED': Indicates compressor strain or overheating. Requires immediate shutdown and professional service.
+- The unit automatically participates in load shedding when it receives a 'DR-02' signal from the Building Management System (BMS).
+
+## Section 4: Contact Information
+- For service and parts, contact 'Climate-Pro Technicians' at 1-800-555-HVAC.

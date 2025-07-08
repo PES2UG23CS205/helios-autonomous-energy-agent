@@ -1,0 +1,24 @@
+# Core ML and Simulation
+torch
+gymnasium
+pandas
+numpy
+scikit-learn
+
+# RAG and LLM Components (Ollama Local-First Approach)
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-huggingface    # We need this for the HuggingFaceEmbeddings class
+sentence-transformers
+faiss-cpu
+unstructured
+python-magic-bin==0.4.14
+libmagic
+
+# Dashboard and Data
+streamlit
+requests
+matplotlib
+python-dotenv            # We used this for debugging, good to keep
