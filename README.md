@@ -2,6 +2,8 @@
 
  
 *A snapshot of the Helios Simulation Dashboard in action.*
+![Screenshot 2025-07-08 150754](https://github.com/user-attachments/assets/f2f7a463-ec4c-4e6d-8551-6af58d10bd5a)
+
 
 ## 📖 Introduction
 
