@@ -3,7 +3,7 @@ import requests
 import numpy as np
 
 # !! IMPORTANT: Replace with your actual API key !!
-OPENWEATHER_API_KEY = "1bf0763886264abb4add09335163f7fe"
+OPENWEATHER_API_KEY = "Your_API_KEY"
 
 def get_weather_forecast(lat=34.05, lon=-118.24):
     """Fetches a 24-hour temperature forecast from OpenWeatherMap."""
